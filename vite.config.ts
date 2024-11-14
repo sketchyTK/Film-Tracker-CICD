@@ -11,7 +11,7 @@ export default defineConfig({
     setupFiles: './src/tests/setup.js'
   },
   server: {
-    port: 3000,
+    port: 13030,
     open: true
   }
 });
